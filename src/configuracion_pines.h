@@ -1,0 +1,21 @@
+#ifndef CONFIGURACION_PINES_H
+#define CONFIGURACION_PINES_H
+
+#define POTENCIOMETRO_PIN 34
+
+#define SENSOR_TRIG 5
+#define SENSOR_ECHO 18
+
+#define MOTOR_ENA 23
+#define MOTOR_IN1 19
+#define MOTOR_IN2 21
+
+#define MOTOR_ENB 22
+#define MOTOR_IN3 17
+#define MOTOR_IN4 16
+
+#define DISTANCIA_MINIMA_CM 15
+#define ADC_MAXIMO 4095
+#define PWM_MAXIMO 255
+
+#endif
